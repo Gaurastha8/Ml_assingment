@@ -28,4 +28,5 @@ This repository contains code for a machine learning assignment focusing on data
 1. **Clone the Repository:**
    ```bash
    git clone
+   https://github.com/Gaurastha8/Ml_assingment.git
    
